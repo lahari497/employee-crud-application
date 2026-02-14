@@ -33,7 +33,7 @@ It demonstrates basic backend operations using REST APIs and MySQL database.
 Database Name: crud_db
 
 ## 👨‍💻 Author
-Harsha
+Lahari
 
 ---
 This project is created as a minor web development project to demonstrate CRUD operations using Spring Boot.
